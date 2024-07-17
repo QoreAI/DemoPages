@@ -1,6 +1,6 @@
 # QoreAI-Demo
 
-[Demo URL](https://itsacinch.github.io/QoreAI-Demo/)
+[Demo URL](https://qoreai.github.io/DemoPages/)
 
 # Creating a demo page
 - Copy template.html and rename to `dealership-environment.html` (i.e. thiscar-stage.html)
